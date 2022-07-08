@@ -1,5 +1,5 @@
 export default {
-    title: 'Ariase/Liens/Boutons',
+    title: 'Liens/Boutons',
     argTypes: {
         label: {
             name: 'text',
